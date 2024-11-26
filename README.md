@@ -1,4 +1,4 @@
-STOCHASTIC TEXT GEN
+# STOCHASTIC TEXT GEN
 
 - distinct_k_secv.m - This function extracts unique sequences from an array of
 sequences, removing duplicates to ensure a distinct set of sequences for
